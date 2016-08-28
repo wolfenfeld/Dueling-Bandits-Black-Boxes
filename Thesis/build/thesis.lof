@@ -1,0 +1,39 @@
+\select@language {english}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {\@@number {\@@number {2}.\@@number {1}}}{\ignorespaces UCB Algorithm}}{\@@number {8}}
+\contentsline {figure}{\numberline {\@@number {\@@number {2}.\@@number {2}}}{\ignorespaces Thompson Sampling Algorithm}}{\@@number {10}}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {\@@number {\@@number {3}.\@@number {1}}}{\ignorespaces Interleaved Filter Algorithm}}{\@@number {20}}
+\contentsline {figure}{\numberline {\@@number {\@@number {3}.\@@number {2}}}{\ignorespaces Beat the Mean Bandit Algorithm}}{\@@number {22}}
+\contentsline {figure}{\numberline {\@@number {\@@number {3}.\@@number {3}}}{\ignorespaces RUCB Algorithm}}{\@@number {23}}
+\contentsline {figure}{\numberline {\@@number {\@@number {3}.\@@number {4}}}{\ignorespaces Cumulative regret averaged over 90 runs}}{\@@number {25}}
+\contentsline {figure}{\numberline {\@@number {\@@number {3}.\@@number {5}}}{\ignorespaces RCS Algorithm}}{\@@number {26}}
+\contentsline {figure}{\numberline {\@@number {\@@number {3}.\@@number {6}}}{\ignorespaces SAVAGE Algorithm}}{\@@number {27}}
+\contentsline {figure}{\numberline {\@@number {\@@number {3}.\@@number {7}}}{\ignorespaces Doubler Algorithm}}{\@@number {29}}
+\contentsline {figure}{\numberline {\@@number {\@@number {3}.\@@number {8}}}{\ignorespaces Sparring Algorithm}}{\@@number {30}}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {\@@number {\@@number {4}.\@@number {1}}}{\ignorespaces Improved Doubler Algorithm}}{\@@number {33}}
+\contentsline {figure}{\numberline {\@@number {\@@number {4}.\@@number {2}}}{\ignorespaces Balanced Doubler}}{\@@number {36}}
+\contentsline {figure}{\numberline {\@@number {\@@number {4}.\@@number {3}}}{\ignorespaces Sparring Thompson Sampling Algorithm}}{\@@number {37}}
+\contentsline {figure}{\numberline {\@@number {\@@number {4}.\@@number {4}}}{\ignorespaces Sparring Thompson Sampling Algorithm Turbo}}{\@@number {38}}
+\contentsline {figure}{\numberline {\@@number {\@@number {4}.\@@number {5}}}{\ignorespaces Unforgetful Thompson Sampling Doubler}}{\@@number {39}}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {\@@number {\@@number {5}.\@@number {1}}}{\ignorespaces Converting LETOR Data Procedure}}{\@@number {42}}
+\contentsline {figure}{\numberline {\@@number {\@@number {5}.\@@number {2}}}{\ignorespaces Small Gap - 8 Arms}}{\@@number {45}}
+\contentsline {figure}{\numberline {\@@number {\@@number {5}.\@@number {3}}}{\ignorespaces Small Gap - 16 Arms}}{\@@number {46}}
+\contentsline {figure}{\numberline {\@@number {\@@number {5}.\@@number {4}}}{\ignorespaces Small Gap - 46 Arms}}{\@@number {47}}
+\contentsline {figure}{\numberline {\@@number {\@@number {5}.\@@number {5}}}{\ignorespaces Linear Mean Utilities - 8 Arms}}{\@@number {48}}
+\contentsline {figure}{\numberline {\@@number {\@@number {5}.\@@number {6}}}{\ignorespaces Linear Mean Utilities - 16 Arms}}{\@@number {49}}
+\contentsline {figure}{\numberline {\@@number {\@@number {5}.\@@number {7}}}{\ignorespaces Linear Mean Utilities - 46 Arms}}{\@@number {50}}
+\contentsline {figure}{\numberline {\@@number {\@@number {5}.\@@number {8}}}{\ignorespaces Big Gap - 8 Arms}}{\@@number {51}}
+\contentsline {figure}{\numberline {\@@number {\@@number {5}.\@@number {9}}}{\ignorespaces Big Gap - 16 Arms}}{\@@number {52}}
+\contentsline {figure}{\numberline {\@@number {\@@number {5}.\@@number {10}}}{\ignorespaces Big Gap - 46 Arms}}{\@@number {53}}
+\contentsline {figure}{\numberline {\@@number {\@@number {5}.\@@number {11}}}{\ignorespaces Random Mean Utilities - 8 Arms}}{\@@number {54}}
+\contentsline {figure}{\numberline {\@@number {\@@number {5}.\@@number {12}}}{\ignorespaces Random Mean Utilities - 16 Arms}}{\@@number {55}}
+\contentsline {figure}{\numberline {\@@number {\@@number {5}.\@@number {13}}}{\ignorespaces Random Mean Utilities - 46 Arms}}{\@@number {56}}
+\contentsline {figure}{\numberline {\@@number {\@@number {5}.\@@number {14}}}{\ignorespaces MQ2007 Data Set - 8 Arms}}{\@@number {57}}
+\contentsline {figure}{\numberline {\@@number {\@@number {5}.\@@number {15}}}{\ignorespaces MQ2007 Data Set - 16 Arms}}{\@@number {58}}
+\contentsline {figure}{\numberline {\@@number {\@@number {5}.\@@number {16}}}{\ignorespaces MQ2007 Data Set - 46 Arms}}{\@@number {59}}
+\contentsline {figure}{\numberline {\@@number {\@@number {5}.\@@number {17}}}{\ignorespaces WEB30K Data Set - 46 Arms}}{\@@number {60}}
+\addvspace {10\p@ }

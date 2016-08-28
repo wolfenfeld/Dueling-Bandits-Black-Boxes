@@ -1,0 +1,46 @@
+\select@language {english}
+\contentsline {chapter}{Abstract}{\@@number {1}}
+\contentsline {chapter}{Abbreviations and Notations}{\@@number {2}}
+\contentsline {chapter}{\numberline {\@@number {1}}Introduction}{\@@number {4}}
+\contentsline {chapter}{\numberline {\@@number {2}}Scientific Background}{\@@number {7}}
+\contentsline {section}{\numberline {\@@number {\@@number {2}.\@@number {1}}}Multi Armed Bandits}{\@@number {7}}
+\contentsline {subsection}{\numberline {\@@number {\@@number {\@@number {2}.\@@number {1}}.\@@number {1}}}UCB Algorithm}{\@@number {8}}
+\contentsline {subsection}{\numberline {\@@number {\@@number {\@@number {2}.\@@number {1}}.\@@number {2}}}Thompson Sampling Algorithm}{\@@number {9}}
+\contentsline {section}{\numberline {\@@number {\@@number {2}.\@@number {2}}}Dueling Bandits}{\@@number {10}}
+\contentsline {subsection}{\numberline {\@@number {\@@number {\@@number {2}.\@@number {2}}.\@@number {1}}}UBDB}{\@@number {11}}
+\contentsline {subsection}{\numberline {\@@number {\@@number {\@@number {2}.\@@number {2}}.\@@number {2}}}PBDB}{\@@number {12}}
+\contentsline {subsection}{\numberline {\@@number {\@@number {\@@number {2}.\@@number {2}}.\@@number {3}}}The Relation Between Preference and Utility based Regrets}{\@@number {13}}
+\contentsline {section}{\numberline {\@@number {\@@number {2}.\@@number {3}}}Probability Estimation}{\@@number {14}}
+\contentsline {subsection}{\numberline {\@@number {\@@number {\@@number {2}.\@@number {3}}.\@@number {1}}}Hoeffding Inequality}{\@@number {15}}
+\contentsline {chapter}{\numberline {\@@number {3}}Survey of Algorithms for Dueling Bandits}{\@@number {16}}
+\contentsline {section}{\numberline {\@@number {\@@number {3}.\@@number {1}}}Explore then Exploit Algorithms}{\@@number {16}}
+\contentsline {section}{\numberline {\@@number {\@@number {3}.\@@number {2}}}Pure Exploration Algorithms}{\@@number {17}}
+\contentsline {section}{\numberline {\@@number {\@@number {3}.\@@number {3}}}The Algorithms}{\@@number {18}}
+\contentsline {subsection}{\numberline {\@@number {\@@number {\@@number {3}.\@@number {3}}.\@@number {1}}}Interleaved Filter}{\@@number {18}}
+\contentsline {subsection}{\numberline {\@@number {\@@number {\@@number {3}.\@@number {3}}.\@@number {2}}}Beat The Mean Bandit}{\@@number {20}}
+\contentsline {subsection}{\numberline {\@@number {\@@number {\@@number {3}.\@@number {3}}.\@@number {3}}}RUCB}{\@@number {22}}
+\contentsline {subsection}{\numberline {\@@number {\@@number {\@@number {3}.\@@number {3}}.\@@number {4}}}RCS}{\@@number {24}}
+\contentsline {subsection}{\numberline {\@@number {\@@number {\@@number {3}.\@@number {3}}.\@@number {5}}}SAVAGE}{\@@number {26}}
+\contentsline {subsection}{\numberline {\@@number {\@@number {\@@number {3}.\@@number {3}}.\@@number {6}}}Black-Box Algorithms}{\@@number {28}}
+\contentsline {paragraph}{Doubler}{\@@number {28}}
+\contentsline {paragraph}{Sparring}{\@@number {29}}
+\contentsline {chapter}{\numberline {\@@number {4}}Our Approach}{\@@number {31}}
+\contentsline {section}{\numberline {\@@number {\@@number {4}.\@@number {1}}}Improved Doubler}{\@@number {31}}
+\contentsline {section}{\numberline {\@@number {\@@number {4}.\@@number {2}}}Balanced Doubler}{\@@number {33}}
+\contentsline {section}{\numberline {\@@number {\@@number {4}.\@@number {3}}}Sparring with Thompson Sampling}{\@@number {37}}
+\contentsline {section}{\numberline {\@@number {\@@number {4}.\@@number {4}}}Sparring with Thompson Sampling Turbo}{\@@number {38}}
+\contentsline {section}{\numberline {\@@number {\@@number {4}.\@@number {5}}}Unforgetful Thompson Sampling Doubler}{\@@number {39}}
+\contentsline {chapter}{\numberline {\@@number {5}}Experiments}{\@@number {40}}
+\contentsline {section}{\numberline {\@@number {\@@number {5}.\@@number {1}}}Real Data}{\@@number {40}}
+\contentsline {subsection}{\numberline {\@@number {\@@number {\@@number {5}.\@@number {1}}.\@@number {1}}}Converting LETOR data to a PBDB matrix}{\@@number {41}}
+\contentsline {subsection}{\numberline {\@@number {\@@number {\@@number {5}.\@@number {1}}.\@@number {2}}}Converting LETOR data to UBDB utilities}{\@@number {42}}
+\contentsline {section}{\numberline {\@@number {\@@number {5}.\@@number {2}}}Synthetic Data}{\@@number {43}}
+\contentsline {section}{\numberline {\@@number {\@@number {5}.\@@number {3}}}Results}{\@@number {44}}
+\contentsline {subsection}{\numberline {\@@number {\@@number {\@@number {5}.\@@number {3}}.\@@number {1}}}Small Gap}{\@@number {45}}
+\contentsline {subsection}{\numberline {\@@number {\@@number {\@@number {5}.\@@number {3}}.\@@number {2}}}Linear Mean Utilities}{\@@number {48}}
+\contentsline {subsection}{\numberline {\@@number {\@@number {\@@number {5}.\@@number {3}}.\@@number {3}}}Big Gap}{\@@number {51}}
+\contentsline {subsection}{\numberline {\@@number {\@@number {\@@number {5}.\@@number {3}}.\@@number {4}}}Random Mean Utilities}{\@@number {54}}
+\contentsline {subsection}{\numberline {\@@number {\@@number {\@@number {5}.\@@number {3}}.\@@number {5}}}MQ2007 Data Set}{\@@number {57}}
+\contentsline {subsection}{\numberline {\@@number {\@@number {\@@number {5}.\@@number {3}}.\@@number {6}}}WEB30K Data Set}{\@@number {60}}
+\contentsline {section}{\numberline {\@@number {\@@number {5}.\@@number {4}}}Conclusions of Results}{\@@number {61}}
+\contentsline {chapter}{\numberline {\@@number {6}}Conclusions and Future Work}{\@@number {62}}

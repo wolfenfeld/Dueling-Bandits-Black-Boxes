@@ -1,0 +1,162 @@
+\begin{thebibliography}{10}
+
+\bibitem{agrawal2009diversifying}
+Rakesh Agrawal, Sreenivas Gollapudi, Alan Halverson, and Samuel Ieong.
+\newblock Diversifying search results.
+\newblock In {\em Proceedings of the Second ACM International Conference on Web
+  Search and Data Mining}, pages 5--14. ACM, 2009.
+
+\bibitem{agrawal2011analysis}
+Shipra Agrawal and Navin Goyal.
+\newblock Analysis of thompson sampling for the multi-armed bandit problem.
+\newblock {\em arXiv preprint arXiv:1111.1797}, 2011.
+
+\bibitem{agrawal2012further}
+Shipra Agrawal and Navin Goyal.
+\newblock Further optimal regret bounds for thompson sampling.
+\newblock {\em arXiv preprint arXiv:1209.3353}, 2012.
+
+\bibitem{ailon2014reducing}
+Nir Ailon, Thorsten Joachims, and Zohar Karnin.
+\newblock Reducing dueling bandits to cardinal bandits.
+\newblock {\em arXiv preprint arXiv:1405.3396}, 2014.
+
+\bibitem{auer2002finite}
+Peter Auer, Nicolo Cesa-Bianchi, and Paul Fischer.
+\newblock Finite-time analysis of the multiarmed bandit problem.
+\newblock {\em Machine learning}, 47(2-3):235--256, 2002.
+
+\bibitem{auer2010ucb}
+Peter Auer and Ronald Ortner.
+\newblock Ucb revisited: Improved regret bounds for the stochastic multi-armed
+  bandit problem.
+\newblock {\em Periodica Mathematica Hungarica}, 61(1-2):55--65, 2010.
+
+\bibitem{black1948rationale}
+Duncan Black.
+\newblock On the rationale of group decision-making.
+\newblock {\em The Journal of Political Economy}, pages 23--34, 1948.
+
+\bibitem{chakrabarti2009mortal}
+Deepayan Chakrabarti, Ravi Kumar, Filip Radlinski, and Eli Upfal.
+\newblock Mortal multi-armed bandits.
+\newblock In {\em Advances in Neural Information Processing Systems}, pages
+  273--280, 2009.
+
+\bibitem{Hoeffding}
+Wassily Hoeffding.
+\newblock Probability inequalities for sums of bounded random variables.
+\newblock {\em Journal of the American Statistical Association}, 58:13--30,
+  1963.
+
+\bibitem{hofmann2011contextual}
+Katja Hofmann, Shimon Whiteson, and Maarten de~Rijke.
+\newblock Contextual bandits for information retrieval.
+\newblock In {\em NIPS 2011 Workshop on Bayesian Optimization, Experimental
+  Design, and Bandits, Granada}, volume~12, page 2011, 2011.
+
+\bibitem{hofmann2013fidelity}
+Katja Hofmann, Shimon Whiteson, and Maarten~De Rijke.
+\newblock Fidelity, soundness, and efficiency of interleaved comparison
+  methods.
+\newblock {\em ACM Transactions on Information Systems (TOIS)}, 31(4):17, 2013.
+
+\bibitem{lai1985asymptotically}
+Tze~Leung Lai and Herbert Robbins.
+\newblock Asymptotically efficient adaptive allocation rules.
+\newblock {\em Advances in applied mathematics}, 6(1):4--22, 1985.
+
+\bibitem{li2010contextual}
+Lihong Li, Wei Chu, John Langford, and Robert~E Schapire.
+\newblock A contextual-bandit approach to personalized news article
+  recommendation.
+\newblock In {\em Proceedings of the 19th international conference on World
+  wide web}, pages 661--670. ACM, 2010.
+
+\bibitem{li2011unbiased}
+Lihong Li, Wei Chu, John Langford, and Xuanhui Wang.
+\newblock Unbiased offline evaluation of contextual-bandit-based news article
+  recommendation algorithms.
+\newblock In {\em Proceedings of the fourth ACM international conference on Web
+  search and data mining}, pages 297--306. ACM, 2011.
+
+\bibitem{manning2008introduction}
+Christopher~D Manning, Prabhakar Raghavan, Hinrich Sch{\"u}tze, et~al.
+\newblock {\em Introduction to information retrieval}, volume~1.
+\newblock Cambridge university press Cambridge, 2008.
+
+\bibitem{radlinski2008learning}
+Filip Radlinski, Robert Kleinberg, and Thorsten Joachims.
+\newblock Learning diverse rankings with multi-armed bandits.
+\newblock In {\em Proceedings of the 25th international conference on Machine
+  learning}, pages 784--791. ACM, 2008.
+
+\bibitem{radlinski2008does}
+Filip Radlinski, Madhu Kurup, and Thorsten Joachims.
+\newblock How does clickthrough data reflect retrieval quality?
+\newblock In {\em Proceedings of the 17th ACM conference on Information and
+  knowledge management}, pages 43--52. ACM, 2008.
+
+\bibitem{rusmevichientong2006adaptive}
+Paat Rusmevichientong and David~P Williamson.
+\newblock An adaptive algorithm for selecting profitable keywords for
+  search-based advertising services.
+\newblock In {\em Proceedings of the 7th ACM Conference on Electronic
+  Commerce}, pages 260--269. ACM, 2006.
+
+\bibitem{slivkins2010ranked}
+Aleksandrs Slivkins, Filip Radlinski, and Sreenivas Gollapudi.
+\newblock Ranked bandits in metric spaces: learning optimally diverse rankings
+  over large document collections.
+\newblock {\em arXiv preprint arXiv:1005.5197}, 2010.
+
+\bibitem{thompson1933likelihood}
+William~R Thompson.
+\newblock On the likelihood that one unknown probability exceeds another in
+  view of the evidence of two samples.
+\newblock {\em Biometrika}, pages 285--294, 1933.
+
+\bibitem{urvoy2013generic}
+Tanguy Urvoy, Fabrice Clerot, Raphael F{\'e}raud, and Sami Naamane.
+\newblock Generic exploration and k-armed voting bandits.
+\newblock In {\em Proceedings of the 30th International Conference on Machine
+  Learning (ICML-13)}, pages 91--99, 2013.
+
+\bibitem{yuan2013adaptive}
+Shuai Yuan, Jun Wang, and Maurice van~der Meer.
+\newblock Adaptive keywords extraction with contextual bandits for advertising
+  on parked domains.
+\newblock {\em arXiv preprint arXiv:1307.3573}, 2013.
+
+\bibitem{yue2012k}
+Yisong Yue, Josef Broder, Robert Kleinberg, and Thorsten Joachims.
+\newblock The k-armed dueling bandits problem.
+\newblock {\em Journal of Computer and System Sciences}, 78(5):1538--1556,
+  2012.
+
+\bibitem{yue2009interactively}
+Yisong Yue and Thorsten Joachims.
+\newblock Interactively optimizing information retrieval systems as a dueling
+  bandits problem.
+\newblock In {\em Proceedings of the 26th Annual International Conference on
+  Machine Learning}, pages 1201--1208. ACM, 2009.
+
+\bibitem{yue2011beat}
+Yisong Yue and Thorsten Joachims.
+\newblock Beat the mean bandit.
+\newblock In {\em Proceedings of the 28th International Conference on Machine
+  Learning (ICML-11)}, pages 241--248, 2011.
+
+\bibitem{zoghi2013relative}
+Masrour Zoghi, Shimon Whiteson, Remi Munos, and Maarten de~Rijke.
+\newblock Relative upper confidence bound for the k-armed dueling bandit
+  problem.
+\newblock {\em arXiv preprint arXiv:1312.3393}, 2013.
+
+\bibitem{zoghi2014relative}
+Masrour Zoghi, Shimon~A Whiteson, Maarten de~Rijke, and Remi Munos.
+\newblock Relative confidence sampling for efficient on-line ranker evaluation.
+\newblock In {\em Proceedings of the 7th ACM international conference on Web
+  search and data mining}, pages 73--82. ACM, 2014.
+
+\end{thebibliography}
